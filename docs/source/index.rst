@@ -9,4 +9,5 @@ Contents:
    :maxdepth: 2
    :caption: Table of Contents:
 
+   fundamentos/index
    bluetooth/index
