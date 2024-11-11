@@ -11,3 +11,4 @@ Contents:
 
    fundamentos/index
    bluetooth/index
+   glosario
