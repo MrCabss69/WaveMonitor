@@ -1,9 +1,8 @@
 .. Teoría de Ondas y Comunicaciones documentation master file
 
-Welcome to Teoría de Ondas y Comunicaciones!
-============================================
+Bienvenido a WaveMonitor - Teoría de Ondas y Comunicaciones
 
-Contents:
+============================================
 
 .. toctree::
    :maxdepth: 2
