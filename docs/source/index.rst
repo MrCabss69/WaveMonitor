@@ -9,5 +9,6 @@ Bienvenido a WaveMonitor - Teoría de Ondas y Comunicaciones
    :caption: Table of Contents:
 
    fundamentos/index
+   wifi/index
    bluetooth/index
    glosario
